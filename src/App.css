@@ -1,8 +1,31 @@
-.app_style{
-    padding: 300px;
+.wrap{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.input_style{
+    margin: 0 auto;
+    padding: 30px;
     display: flex;
     gap: 12px}
 
+.app_style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Do_list{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.Done_list{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+
+}
 
 .squareSytle{
   width: 300px;
@@ -12,4 +35,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
+    flex-direction: column;
+    gap:10px;
 }

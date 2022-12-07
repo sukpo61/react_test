@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/sukpo61/react_test.git",
+  "author": "GH <sukpo6010@gmail.com>",
+  "license": "MIT"
 }
